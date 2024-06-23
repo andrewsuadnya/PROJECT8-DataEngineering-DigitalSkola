@@ -1,0 +1,3 @@
+wonderwords
+confluent-kafka
+textblob
