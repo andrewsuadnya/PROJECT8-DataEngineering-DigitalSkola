@@ -1,5 +1,7 @@
 # Stream Analytics with Kafka and Python
 
+![Untitled-2024-06-23-1930](https://github.com/andrewsuadnya/PROJECT8-DataEngineering-DigitalSkola/assets/90898706/693bd2b5-df63-4db5-b89b-b79ae61aa721)
+
 ## Overview
 This project demonstrates real-time text stream processing using Kafka and Python. The project includes generating random sentences, sending them to Kafka, consuming these messages, and performing sentiment analysis.
 
