@@ -65,6 +65,3 @@ This project demonstrates real-time text stream processing using Kafka and Pytho
   ```
   {'text': 'The placid prayer changes carry.', 'sentiment': 'negative'}
   ```
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
