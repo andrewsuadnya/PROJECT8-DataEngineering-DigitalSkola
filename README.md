@@ -67,3 +67,6 @@ This project demonstrates real-time text stream processing using Kafka and Pytho
   ```
   {'text': 'The placid prayer changes carry.', 'sentiment': 'negative'}
   ```
+
+
+  https://wonderwords.readthedocs.io/en/latest/quickstart.html#the-randomsentence-class
