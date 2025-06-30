@@ -70,6 +70,9 @@ This project demonstrates a simple real-time streaming pipeline using **Apache K
 <br>
 
 ![real output_terminal](https://github.com/user-attachments/assets/0272417b-ab22-43e3-8ec1-9bda05fdd0b2)
+> 📸 *The left panel shows the Kafka producer streaming random sentences. The right panel shows the Kafka consumer performing real-time sentiment analysis on each sentence.*
 
+### 📚 References
 
-https://wonderwords.readthedocs.io/en/latest/quickstart.html#the-randomsentence-class
+* Wonderwords Library: [Quickstart Guide](https://wonderwords.readthedocs.io/en/latest/quickstart.html#the-randomsentence-class) — *used in this project to generate varied random sentences for stream testing*
+* Apache Kafka Documentation: [https://kafka.apache.org/](https://kafka.apache.org/)
