@@ -3,7 +3,7 @@
 ![Untitled-2024-06-23-1930](https://github.com/andrewsuadnya/PROJECT8-DataEngineering-DigitalSkola/assets/90898706/cf1f385a-2381-4c0c-b5af-1c048d4d8f0f)
 
 ## Overview
-This project demonstrates real-time text stream processing using Kafka and Python. The project includes generating random sentences, sending them to Kafka, consuming these messages, and performing sentiment analysis.
+This project demonstrates a simple real-time streaming pipeline using **Apache Kafka** and **Python**. It generates random sentences using the `wonderwords` library, publishes them to Kafka, and then consumes them for real-time **sentiment analysis**. The pipeline is containerized using Docker for easier setup and deployment.
 
 ## Project Structure
 - `.gitignore`: Specifies files and directories to be ignored by Git.
@@ -56,7 +56,7 @@ This project demonstrates real-time text stream processing using Kafka and Pytho
 - **analytics.py**: Consumes messages from the `sentences` topic in Kafka and performs sentiment analysis using functions defined in `sentiment_analysis.py`.
 - **sentiment_analysis.py**: Contains the logic for analyzing the sentiment of given sentences.
 
-### Example Output
+### 🧪 Sample Output
 
 - **Producer Output**:
   ```
@@ -67,9 +67,9 @@ This project demonstrates real-time text stream processing using Kafka and Pytho
   ```
   {'text': 'The placid prayer changes carry.', 'sentiment': 'negative'}
   ```
-  
+<br>
+
 ![real output_terminal](https://github.com/user-attachments/assets/0272417b-ab22-43e3-8ec1-9bda05fdd0b2)
 
 
-
-  https://wonderwords.readthedocs.io/en/latest/quickstart.html#the-randomsentence-class
+https://wonderwords.readthedocs.io/en/latest/quickstart.html#the-randomsentence-class
