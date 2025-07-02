@@ -1,4 +1,4 @@
-# Stream Analytics with Kafka and Python
+# 💬 Real-Time Text Stream Analytics with Kafka & Python
 
 ![Untitled-2024-06-23-1930](https://github.com/andrewsuadnya/PROJECT8-DataEngineering-DigitalSkola/assets/90898706/cf1f385a-2381-4c0c-b5af-1c048d4d8f0f)
 
